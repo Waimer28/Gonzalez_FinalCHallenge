@@ -1,0 +1,952 @@
+fileFormatVersion: 2
+guid: a948e9b471bc7114e9b854c2389565e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2312833081892490177
+    second: rubyspinning_0
+  - first:
+      213: 1300847771021041185
+    second: rubyspinning_1
+  - first:
+      213: -5167990978651308415
+    second: rubyspinning_2
+  - first:
+      213: 8154885414638686851
+    second: rubyspinning_3
+  - first:
+      213: -1997392485396187978
+    second: rubyspinning_4
+  - first:
+      213: -6784071445726924726
+    second: rubyspinning_5
+  - first:
+      213: 2145271619459517109
+    second: rubyspinning_6
+  - first:
+      213: 4798478762157394007
+    second: rubyspinning_7
+  - first:
+      213: -5072419122017649085
+    second: rubyspinning_8
+  - first:
+      213: 3615690456683132364
+    second: rubyspinning_9
+  - first:
+      213: -8212157879293274172
+    second: rubyspinning_10
+  - first:
+      213: -7571826753538553195
+    second: rubyspinning_11
+  - first:
+      213: 8026047684505868790
+    second: rubyspinning_12
+  - first:
+      213: -6929788744648606352
+    second: rubyspinning_13
+  - first:
+      213: 4852999624860443598
+    second: rubyspinning_14
+  - first:
+      213: 5192179681695993165
+    second: rubyspinning_15
+  - first:
+      213: -4071296889306964690
+    second: rubyspinning_16
+  - first:
+      213: -1255815482093072936
+    second: rubyspinning_17
+  - first:
+      213: 9182123895290780966
+    second: rubyspinning_18
+  - first:
+      213: -1181812903570991379
+    second: rubyspinning_19
+  - first:
+      213: 5044552012223632545
+    second: rubyspinning_20
+  - first:
+      213: 7028278769284722140
+    second: rubyspinning_21
+  - first:
+      213: -657748641293905583
+    second: rubyspinning_22
+  - first:
+      213: -7168931165470070424
+    second: rubyspinning_23
+  - first:
+      213: -5925948070530031288
+    second: rubyspinning_24
+  - first:
+      213: -542359150148517977
+    second: rubyspinning_25
+  - first:
+      213: 8447475342334497963
+    second: rubyspinning_26
+  - first:
+      213: 3861852713460702676
+    second: rubyspinning_27
+  - first:
+      213: 2351026075304152395
+    second: rubyspinning_28
+  - first:
+      213: 2776570399074738820
+    second: rubyspinning_29
+  - first:
+      213: 5242230006795199948
+    second: rubyspinning_30
+  - first:
+      213: 6124712849906297846
+    second: rubyspinning_31
+  - first:
+      213: 5852095903077816930
+    second: rubyspinning_32
+  - first:
+      213: -8152182955951452828
+    second: rubyspinning_33
+  - first:
+      213: -1753995639107989164
+    second: rubyspinning_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rubyspinning_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c0fa3c1f0fcee418401b0ea761e38f
+      internalID: -2312833081892490177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 156
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8890193128aad4ebe587018a044722
+      internalID: 1300847771021041185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 156
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf577db5d3a7c2b439f2b91072a5c18e
+      internalID: -5167990978651308415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 156
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe836be97ae11744b5a10e7b5020829
+      internalID: 8154885414638686851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 156
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5346aca664161489990a4cb74c2b16
+      internalID: -1997392485396187978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d142aadfe426f524dbacee77fbd66563
+      internalID: -6784071445726924726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 126
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa578f7bc4e4d44458a7eca5981d0f2e
+      internalID: 2145271619459517109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 126
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cceb89fa9ce27c43a9f602b60010bed
+      internalID: 4798478762157394007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 126
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b697ed12560c374080773122005c28f
+      internalID: -5072419122017649085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 126
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d4d20d6914a7447944b361b88f75b4
+      internalID: 3615690456683132364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 126
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb4cf85ad427d47ba178afa9d1fb68
+      internalID: -8212157879293274172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 126
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355c045a10e6ee3449b2c2c90e35bace
+      internalID: -7571826753538553195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8e81a726a78d74bb8a5bf26a1f0d2b
+      internalID: 8026047684505868790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 96
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51744642e19076b4ea265c71e873aa8b
+      internalID: -6929788744648606352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336b2636c0ba2db4a8423c6760cd334c
+      internalID: 4852999624860443598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e4ba1c0dfa3a048bfd7abd27360dd3
+      internalID: 5192179681695993165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 96
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676eedb41aed12c46a336d68dd40788e
+      internalID: -4071296889306964690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 96
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e0bb40562369643a64e6a305733bc8
+      internalID: -1255815482093072936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947244c14228cd74789e8cb69abbd2db
+      internalID: 9182123895290780966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9425c57188ae9524d971f4f7ad5d3a32
+      internalID: -1181812903570991379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 66
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3701cecad9978e14eb8206ea1d8e219e
+      internalID: 5044552012223632545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 66
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08590301db2c05b428774cc687406beb
+      internalID: 7028278769284722140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 66
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c40a496f2e6ab40897d6503d5b19f5
+      internalID: -657748641293905583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 66
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4fe387ca8fce54e8ac8c7e886ad153
+      internalID: -7168931165470070424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd84557b823294747b56a2776c489380
+      internalID: -5925948070530031288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 36
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8809ca97238b941ae4a17a8ab2f50b
+      internalID: -542359150148517977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 36
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eac34ae409b8b4a83a243964a84bc5
+      internalID: 8447475342334497963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 36
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1816dcaa20bc1049b311c06883ff610
+      internalID: 3861852713460702676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 36
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ab168f33b84da4a81524194c6e7be5
+      internalID: 2351026075304152395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 36
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688881ae674dd434190edc839cf88fc7
+      internalID: 2776570399074738820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2e0a99f4f7aa0438e43b0d21c3f22c
+      internalID: 5242230006795199948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 6
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fce8ad8a23a6a44843703067d82546
+      internalID: 6124712849906297846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 6
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6668d505476d448a73dc632b389c86
+      internalID: 5852095903077816930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 6
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346656f81916aa049b6ac9d146553204
+      internalID: -8152182955951452828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubyspinning_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 90
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba8de4090e0b5f4aafef6e9bf14f0fa
+      internalID: -1753995639107989164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1c78bb8caf3b53348a59071b4394f21a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
